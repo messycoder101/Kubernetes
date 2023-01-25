@@ -1,2 +1,2 @@
 # Kubernetes
-Hi, this is project where the Kubernetes deployment can perform rolling updates.
+Hi, this is a project where the Kubernetes deployment can perform rolling updates.
